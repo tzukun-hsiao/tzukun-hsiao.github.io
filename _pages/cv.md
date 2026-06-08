@@ -20,17 +20,17 @@ Research experience
 Doctoral Researcher @ **School of Information Sciences, University of Illinois Urbana-Champaign**
 * Fall 2018 - Spring 2026
 * Projects:
-  * Semantic citation: Mentions of knowledge in citation contexts
+  * Semantic citation: Mentions of knowledge in citation contexts   
     This project integrates bibliometrics, machine learning, and natural language processing to assess research impact through the diversity of knowledge use. 
-  * OpCitance: Citation contexts identified from the PubMed Central open access articles
+  * OpCitance: Citation contexts identified from the PubMed Central open access articles   
     This project developes a pipeline to systematically identify citation contexts from 2 million articles and deposited the resulting dataset, OpCitance, in the Illinois Data Bank to support open science and reuse.
-  * Continued use of retracted papers: Temporal trends in citations and (lack of) awareness of retractions shown in citation contexts in biomedicine
+  * Continued use of retracted papers: Temporal trends in citations and (lack of) awareness of retractions shown in citation contexts in biomedicine   
     This project	investigates the diffusion of retracted articles and appropriateness of post-retraction citations using bibliometrics, sentiment analysis, and content analysis.
-  * Document Conflation of a Large Scholarly Full‐text Dataset
+  * Document Conflation of a Large Scholarly Full‐text Dataset   
     This project develops a method for detecting near-duplicate records in the Semantic Scholar Open Research Corpus (S2ORC) to improve data quality for downstream analyses. 
-  * Technology footprints in science: a case study on the citation functions of paper-to-patent citations
+  * Technology footprints in science: a case study on the citation functions of paper-to-patent citations   
     This project examines how scientific papers cite patents to understand the roles that technological development plays in advancing scientific knowledge.
-  * Knowledge transfer from technology to science: a case study on the age of paper-to-patent citations 
+  * Knowledge transfer from technology to science: a case study on the age of paper-to-patent citations    
     This project investigates temporal patterns in knowledge transfer between science and technology.
 
 Research Assistant @ **Department of Library and Information Science, National Taiwan University**
