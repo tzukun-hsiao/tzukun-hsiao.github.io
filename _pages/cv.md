@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Information Sciences, the University of Illinois at Urbana-Champaign, 2026
+* Ph.D. in Information Sciences, University of Illinois at Urbana-Champaign, 2026
 * M.A. in Library & Information Science, National Taiwan University, 2017
 * B.A. in Library & Information Science, National Taiwan University, 2013
 
