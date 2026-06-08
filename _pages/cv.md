@@ -11,42 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D. candidate in Information Sciences, the University of Illinois at Urbana-Champaign
+* Ph.D. in Information Sciences, the University of Illinois at Urbana-Champaign, 2026
 * M.A. in Library & Information Science, National Taiwan University, 2017
 * B.A. in Library & Information Science, National Taiwan University, 2013
 
 Research experience
 ======
-* Fall 2018 - present: Torvik Research Group
-  * Location: iSchool at the University of Illinois at Urbana-Champaign
+* Doctoral Researcher
+  * **School of Information Sciences, University of Illinois Urbana-Champaign**
   * Advisor: Vetle Torvik
-  * Studies:
+  * Projects:
+    * Semantic citation: Mentions of knowledge in citation contexts
+      * This project integrates bibliometrics, machine learning, and natural language processing to assess research impact through the diversity of knowledge use. 
     * OpCitance: Citation contexts identified from the PubMed Central open access articles
-    * The quality of the Semantic Scholar Open Research Corpus (S2ORC) and the alignment between in-text citations in PubMed Central open access articles and the S2ORC
-    * Technology footprints in science: a case study on the citation functions of paper-to-patent citations
-    * Knowledge transfer from technology to science: a case study on the age of paper-to-patent citations
-  
-
-* Fall 2020 - Spring 2021: Info Quality Lab
-  * Location: iSchool at the University of Illinois at Urbana-Champaign
-  * Advisor: Jodi Schneider
-  * Studies:
+      * This project developes a pipeline to systematically identify citation contexts from 2 million articles and deposited the resulting dataset, OpCitance, in the Illinois Data Bank to support open science and reuse.
     * Continued use of retracted papers: Temporal trends in citations and (lack of) awareness of retractions shown in citation contexts in biomedicine
-
-
-* Summer 2019: Info Quality Lab
-  * Location: iSchool at the University of Illinois at Urbana-Champaign
-  * Advisor: Jodi Schneider
-  * Studies:
-    * Application of citation context for updating systematic review
+       * This project	investigates the diffusion of retracted articles and appropriateness of post-retraction citations using bibliometrics, sentiment analysis, and content analysis.
+    * Document Conflation of a Large Scholarly Full‐text Dataset
+      * This project develops a method for detecting near-duplicate records in the Semantic Scholar Open Research Corpus (S2ORC) to improve data quality for downstream analyses. 
+    * Technology footprints in science: a case study on the citation functions of paper-to-patent citations
+      * This project examines how scientific papers cite patents to understand the roles that technological development plays in advancing scientific knowledge.
+    * Knowledge transfer from technology to science: a case study on the age of paper-to-patent citations 
+      * This project investigates temporal patterns in knowledge transfer between science and technology.
 
 
 * Fall 2013 - Spring 2018
-  * Location: Department of Library and Information Science, National Taiwan University
-  * Advisor: Mu-Hsuan Huang
-  * Studies:
+  * **Department of Library and Information Science, National Taiwan University**
+  * Projects:
     * Co-authorship issues in co-first author, co-corresponding author, hyperauthorship and multi-institutional authorship
-    * The characteristics of technological collaborations in Chinese universities: a co-patenting analysis
+    * The characteristics of technological collaborations in Chinese universities: A co-patenting analysis
 
 Teaching experience
 ======
