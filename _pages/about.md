@@ -7,9 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Information Sciences at the University of Illinois at Urbana-Champaign. I study knowledge diffusion through descriptions of prior research in scientific articles. By combining bibliometrics, natural language processing techniques, and data-driven analysis, I investigate how and why prior research is mentioned in scientific articles, particularly through citations and their surrounding text (i.e., citation contexts).
+Hi! I am an Assistant Professor at the University of Mississippi Libraries. My research lies at the intersection of the Science of Science, scholarly communication, and computational text analysis. My work leverages large-scale bibliometric analysis, natural language processing, and machine learning to better understand the dynamics of scholarly communication and the evolution of scientific knowledge.
 
-In addition to this primary line of research, I am also interested in:
-- Building tools for parsing scientific articles
-- Quality issues in large-scale scholarly datasets
-
+My current projects examine how scientific knowledge is communicated, interpreted, and used. I am especially interested in how scholars decide what to cite when navigating massive bodies of literature, and how problematic science may continue to diffuse through citations. In addition to this work, I am interested in quality issues in large-scale scholarly datasets and the ethical concerns that arise as AI becomes more widely used in research.
